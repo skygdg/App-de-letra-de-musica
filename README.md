@@ -21,4 +21,8 @@ Este projeto foi construído usando **Python** para a lógica de backend (comuni
 * **HTML / CSS / JavaScript:** Para a construção e animação da interface de usuário.
 
 ## Demonstração 📷
-<video src="Demonstração.mp4.mp4" width="600" controls></video>
+https://github.com/user-attachments/assets/29038fb5-0b9d-4491-937c-26a3fe483e5b
+
+
+
+
