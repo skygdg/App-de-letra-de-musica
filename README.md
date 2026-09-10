@@ -19,3 +19,6 @@ Este projeto foi construído usando **Python** para a lógica de backend (comuni
 * **Requests:** Para consumir a API de letras do LRCLIB.
 * **Eel:** Ponte para conectar o backend Python com o frontend web.
 * **HTML / CSS / JavaScript:** Para a construção e animação da interface de usuário.
+
+## Demonstração 📷
+<video src="Demonstração.mp4" width="600" controls></video>
